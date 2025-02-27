@@ -1,0 +1,6 @@
+5
+1000 Sunday
+2000 Monday
+3000 Tuesday
+4000 Wednesday
+5000 Thursday
